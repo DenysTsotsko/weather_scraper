@@ -1,0 +1,1 @@
+weather_url = "https://weather.com/weather/hourbyhour/l/Auburn+WA?canonicalCityId=571c8cbf76648e90351657bac78bce22e14077855dcfa9f3d9821f989865d52a"
